@@ -262,13 +262,6 @@ This methodology applies to testing:
 - Ability to randomize users
 - Meaningful business question
 
-## Author
-
-[Your Name]
-[Your Email]
-[LinkedIn Profile]
-[GitHub Profile]
-
 ## License
 
 This project is open source and available for portfolio purposes.
